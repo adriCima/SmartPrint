@@ -1,0 +1,12 @@
+#Backend Laravel
+/backend/vendor
+/backend/node_modules
+/backend/public/storage
+/backend/storage/*.key
+/backend.env
+
+#FrontEnd React
+
+#System files
+.DS_Store
+Thumbs.db
